@@ -1,4 +1,4 @@
-Please read the following paper that implements Lithology microscopic image classification on this dataset using transfer learning. The paper formulates the classification task to a Federated Transfer Learning (FTL) scheme and proposed a Fine-Tuned Aggregation strategy for Federated Learning (FTA-FTL).
+Please read the following paper that implements Lithology microscopic image classification on Weeds Dataset using transfer learning. The paper formulates the classification task to a Federated Transfer Learning (FTL) scheme and proposed a Fine-Tuned Aggregation strategy for Federated Learning (FTA-FTL).
 
 https://arxiv.org/abs/2501.03349
 
